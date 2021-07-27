@@ -49,5 +49,5 @@ with open("textfile.txt" , mode= 'w' ,encoding= 'utf-8') as f :
     f.write("{},{},{} \n".format("Current wind speed    :",txtlist[3],"kmph"))
     f.write("====================================================")
 
-  #completed the project by Dhilanmith Perera by rewriting the code with reference to Harsh sir's source code and adding additional comments deriving from the knowledeg gathered during the bootcamp
+  #completed the project by Dhilanmith Perera by rewriting the code with reference to Harsh sir's source code and adding additional comments deriving from the knowledge gathered during the bootcamp
     
